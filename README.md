@@ -1,8 +1,26 @@
-# Referência de README de perfil
+# Referência de README de Perfil — Rafaella Ballerini
 
-Cópia de estudo do perfil de [Rafaella Ballerini](https://github.com/rafaballerini). O conteúdo abaixo é da referência original, não uma apresentação de Flora Rosa. A automação é manual para evitar execuções periódicas neste repositório de estudo.
+## Descrição
 
----
+Cópia de estudo do perfil de [Rafaella Ballerini](https://github.com/rafaballerini), preservada com atribuição à autora original. O conteúdo de referência não é uma apresentação de Flora Rosa. A automação deste fork é manual.
+
+## Stack e bibliotecas
+
+Markdown e GitHub Actions.
+
+## Funcionalidades
+
+- Referência de perfil.
+- Estudo de apresentação.
+- Animação manual.
+
+## Licença
+
+Não há uma licença de distribuição definida para este repositório. Nenhuma licença MIT, Apache ou equivalente é concedida por este README. As atribuições e os direitos dos materiais de terceiros permanecem preservados. O conteúdo derivado mantém a atribuição ao projeto de origem indicada na descrição.
+
+## Validação e limites
+
+Revisão de documentação/YAML. Não representa trabalho autoral sobre o conteúdo original nem concessão de licença.
 
 ## Oiii! Eu sou a Rafaella Ballerini
  <div>
@@ -34,24 +52,6 @@ Cópia de estudo do perfil de [Rafaella Ballerini](https://github.com/rafaballer
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
-
-
-## Stack e bibliotecas
-
-Markdown e GitHub Actions.
-
-
-## Funcionalidades
-
-- Referência de perfil.
-- estudo de apresentação.
-- animação manual.
-
-
-## Licença
-
-Não há licença de distribuição definida neste repositório. Os direitos de terceiros e as atribuições existentes devem ser respeitados; esta revisão não concede permissão de redistribuição.
-
 
 ## Organização e manutenção
 
