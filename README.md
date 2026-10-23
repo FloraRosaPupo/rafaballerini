@@ -34,3 +34,27 @@ Cópia de estudo do perfil de [Rafaella Ballerini](https://github.com/rafaballer
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
+
+## Stack e bibliotecas
+
+Markdown e GitHub Actions.
+
+
+## Funcionalidades
+
+- Referência de perfil.
+- estudo de apresentação.
+- animação manual.
+
+
+## Licença
+
+Não há licença de distribuição definida neste repositório. Os direitos de terceiros e as atribuições existentes devem ser respeitados; esta revisão não concede permissão de redistribuição.
+
+
+## Organização e manutenção
+
+Repositório de referência, explicitamente atribuído à autora original. Não é uma aplicação: arquitetura de domínio e testes unitários não se aplicam. Automação usa o proprietário do repositório e execução manual.
+
+Veja [a revisão de desenvolvimento](docs/REVISAO.md) para decisões, testes e limites, e [o guia de contribuição](CONTRIBUTING.md) para o fluxo de manutenção.
